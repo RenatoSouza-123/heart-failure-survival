@@ -7,3 +7,4 @@ A base utilizada não requereu grandes alterações, já que não possuía valor
 ---
 - Acurácia do modelo Naive Bayes: 68%
 - Acurácia do modelo Decision Tree: 75%
+- Acurácia do modelo Random Forest (com 100 árvores): 85%
